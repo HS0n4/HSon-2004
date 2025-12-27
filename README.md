@@ -1,8 +1,7 @@
-# 👋 Hi there, I'm HSon! 
+# 👋 Hi there, I'm HS0n4! 
 
-- 🔭 I'm working on Embedded, Iot, Cyber Security & CTF
-- 🌱 I’m currently learning Embedded, Reverse Engineering & System hacking
-- 👯 I’m looking to collaborate on Open Source Project
+- I'm working on Embedded, Iot, Cyber Security & CTF
+- I’m currently learning Embedded, Reverse Engineering & System hacking
 
 ## Top Languages
 
